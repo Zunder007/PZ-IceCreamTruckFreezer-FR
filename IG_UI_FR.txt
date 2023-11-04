@@ -1,0 +1,4 @@
+IG_UI_FR = {
+	IGUI_VehicleNameStepVanIceCreamFreeze = "Camion de crème glacée Tendres Dimanches - Édition congélateur",
+	IGUI_VehiclePartfreezer = "Congélateur",
+}
